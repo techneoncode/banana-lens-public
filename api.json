@@ -3,5 +3,6 @@
 	"my_api_active": true,
 	"version": "0.5.1",
 	"latest": "https://github.com/https://github.com/techneoncode/banana-lens-public",
-	"authorizedUsers": []
+	"authorizedUsers": [],
+	"bannedUsers": []
 }
