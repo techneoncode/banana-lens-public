@@ -4,5 +4,6 @@
 	"version": "0.5.2",
 	"latest": "https://github.com/techneoncode/banana-lens-public/releases/download/v0.5.2/bananabox-0.5.2.vsix",
 	"authorizedUsers": [],
+	"bannedFeatures": ["lens_active", "my_api_active"],
 	"bannedUsers": ["niels"]
 }
