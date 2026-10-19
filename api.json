@@ -1,6 +1,6 @@
 {
-	"lens_active": true,
-	"my_api_active": true,
+	"lens_active": false,
+	"my_api_active": false,
 	"version": "0.5.5",
 	"latest": "https://github.com/techneoncode/banana-lens-public/releases/download/v0.5.5/bananabox-0.5.5.vsix",
 	"latest_clion": "https://github.com/techneoncode/banana-lens-public/releases/download/v0.5.5/bananabox-0.5.5.zip",
