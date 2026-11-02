@@ -6,5 +6,5 @@
 	"latest_clion": "https://github.com/techneoncode/banana-lens-public/releases/download/v0.5.5/bananabox-0.5.5.zip",
 	"authorizedUsers": [],
 	"bannedFeatures": ["lens_active", "my_api_active"],
-	"bannedUsers": ["axel"]
+	"bannedUsers": []
 }
