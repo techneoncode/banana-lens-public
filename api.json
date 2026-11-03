@@ -1,9 +1,9 @@
 {
 	"lens_active": true,
 	"my_api_active": true,
-	"version": "1.0.0",
-	"latest": "https://github.com/techneoncode/banana-lens-public/releases/download/v1.0.0/bananabox-1.0.0.vsix",
-	"latest_clion": "https://github.com/techneoncode/banana-lens-public/releases/download/v1.0.0/bananabox-1.0.0.zip",
+	"version": "1.0.1",
+	"latest": "https://github.com/techneoncode/banana-lens-public/releases/download/v1.0.1/bananabox-1.0.1.vsix",
+	"latest_clion": "https://github.com/techneoncode/banana-lens-public/releases/download/v1.0.1/bananabox-1.0.1.zip",
 	"authorizedUsers": [],
 	"bannedFeatures": ["lens_active", "my_api_active"],
 	"bannedUsers": []
